@@ -1,5 +1,6 @@
+Tecnicas de disenio WEB
 
->Diseï¿½o responsibo
+>Diseño responsibo
 	Adaptativo
 	
 
@@ -21,7 +22,7 @@ REQUISITOS PARA UNA PAGINA WEB
 
 	Objetivo e informacion
 	Planeacion en papel o software
-	Diseï¿½o 
+	Diseño 
 	Desarrollo Maquetar 
 	Pruebas
 	Mantenimiento
