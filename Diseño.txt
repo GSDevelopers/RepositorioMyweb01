@@ -1,0 +1,63 @@
+
+>Dise�o responsibo
+	Adaptativo
+	
+
+Mobile First
+
+>Primero desarrollo movil
+	primero movel y despues se hace la adaptacion a otras plataformas
+
+
+Sitio debe contemer
+	Accesibilidad
+
+Utilizar marcadores 
+Crear tablas y se visualicen de manera adecuada
+Activar 
+
+
+REQUISITOS PARA UNA PAGINA WEB
+
+	Objetivo e informacion
+	Planeacion en papel o software
+	Dise�o 
+	Desarrollo Maquetar 
+	Pruebas
+	Mantenimiento
+
+Elemeentos
+	Formularios
+	Tarjetas
+	Cuadros de dialogo
+	Listas
+	Menus o navegadores globales o locales
+	Barras de progreso
+	
+Editores de texto
+	Atom
+	Backets
+	Sublime Text
+	Vim
+	
+Herramientas
+	Navegadores
+	Tipografias Google Font
+	Animaciones Code Pen
+	Color 	    Adobe color CC
+	
+Control de Versiones Se usa para las actualizaciones
+	Recuperar versiones
+	Controlar
+	> Git
+	> GitHope registrarse y descargar app de Escritorio
+	
+
+
+
+
+
+
+
+
+
